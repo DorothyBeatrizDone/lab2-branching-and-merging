@@ -1,6 +1,3 @@
-# Chocolate Raspberry Celebration Cake
-
-This recipe makes a three-layer celebration cake with a raspberry filling between each layer and chocolate frosting on the outside.
 # Chocolate Caramel Celebration Cake
 
 This recipe makes a three-layer celebration cake with a caramel filling between each layer and vanilla frosting on the outside.
@@ -20,24 +17,14 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 - 1 cup dark chocolate chips
 
 ## Filling
-
-- 1 1/2 cups raspberry preserves
-- 1 cup fresh raspberries
 - 1 1/2 cups salted caramel sauce
 - 1 cup chopped toasted pecans
 
 ## Frosting
-
-- 1 cup unsalted butter, softened
-- 4 cups powdered sugar
-- 2 teaspoons vanilla extract
 - 1/2 cup unsweetened cocoa powder
 - 2 tablespoons milk
 
 ## Decoration
-
-- Fresh raspberries
-- A dusting of powdered sugar
 - 2 tablespoons heavy cream
 - Pinch of salt
 
